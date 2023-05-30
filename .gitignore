@@ -1,4 +1,5 @@
 .idea
 *.iml
 /test_N/
-/test_Y/
+/test_*
+*.git
